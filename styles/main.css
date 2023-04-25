@@ -79,7 +79,7 @@ span{
 .form-search{
     width: 100%;
     height: 465px;
-    background-image: url('/images/Group_8form-bg_b8nmd8_v6cj6l.webp');
+    background-image: url('./images/Group_8form-bg_b8nmd8_v6cj6l.webp');
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -227,7 +227,7 @@ h1{
 .wu-block{
     width: 100%;
     height: 700px;
-    background-image: url('/images/Group_8wu-bg_new_l2qyan_czq6dq.webp');
+    background-image: url('./images/Group_8wu-bg_new_l2qyan_czq6dq.webp');
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -382,7 +382,7 @@ footer{
     height: 40px;
     border-radius: 50px;
     margin: 5px;
-    background-image: url('/images/ico1_uqjzmw.webp');
+    background-image: url('./images/ico1_uqjzmw.webp');
     background-size: cover;
 }
 .social-item2{
@@ -390,7 +390,7 @@ footer{
     height: 40px;
     border-radius: 50px;
     margin: 5px;
-    background-image: url('/images/ico2_pdamiv.webp');
+    background-image: url('./images/ico2_pdamiv.webp');
     background-size: cover;
 }
 .social-item3{
@@ -398,7 +398,7 @@ footer{
     height: 40px;
     border-radius: 50px;
     margin: 5px;
-    background-image: url('/images/ico3_gausnv.webp');
+    background-image: url('./images/ico3_gausnv.webp');
     background-size: cover;
 }
 .top-nav {
